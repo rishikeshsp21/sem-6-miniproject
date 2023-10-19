@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/back_color"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".stepcounteractivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+        android:fontFamily="@font/abel"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="Steps counter"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:id="@+id/tvheading"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/tvsteps"
+        android:text="123"
+        android:background="@drawable/steps_back"
+        android:layout_marginTop="200dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/abel"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvsteps"
+        android:text="steps"
+        android:textAlignment="center"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/abel"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        android:id="@+id/tvstepsheading"
+        android:textStyle="bold"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/FAB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvsteps"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/ic_play"
+        android:tint="@color/white" />
+
+</RelativeLayout>

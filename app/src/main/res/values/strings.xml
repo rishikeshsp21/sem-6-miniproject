@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">sixth sem mini project</string>
+    <string name="side_plank">
+        benefits of plank \n
+        1. improves posture \n
+        2. balance and coordination \n
+        3. improves body alignment \n
+        4. builds core strength \n
+        5. Improves Flexibility \n
+        6. improves metabolism \n
+        7. improves overall mental health.
+    </string>
+    <string name="lunges">
+        benefits of lunges \n
+        1. Strengthens lower body muscles \n
+        2. Improves balance \n
+        3. increase flexibility \n
+        4. enhance functional fitness and improve athletic performance. \n
+        5. correct muscle imbalances \n
+        6. boost metabolism \n
+    </string>
+    <string name="stepping">
+        benefits of high stepping \n
+        1. improves overall fitness \n
+        2. helps reduce fat \n
+        3. boosts cardiovascular strength \n
+        4. best exercise for weight loss \n
+    </string>
+    <string name="crunches">
+        Benefits of crunches \n
+        1. Strengthens ab muscles \n
+        2. improves core stability \n
+        3. time efficiency \n
+        4. no equipment required \n
+    </string>
+    <string name="pushups">
+        Benefits of push ups \n
+        1. Targets multiple muscle groups \n
+        2. increases upper body strength \n
+        3. good for core \n
+        4. improves posture \n
+        5. supports bone health \n
+        6. improves heart health \n
+    </string>
+    <string name="squats">
+        Benefits of squats \n
+        1. Targets multiple muscle groups \n
+        2. Targets your glutes and quadriceps. \n
+        3. good for core \n
+        4. Strengthens hip muscles \n
+        5. Strengthens calf muscles \n
+        6. Strengthens hamstrings \n
+        7. Strengthens obliques \n
+    </string>
+
+</resources>
